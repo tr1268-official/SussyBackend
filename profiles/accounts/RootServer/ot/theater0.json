@@ -1,0 +1,16 @@
+{
+  "created": "0001-01-01T00:00:00.000Z",
+  "updated": "2026-09-22T16:17:34.468Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "RootServer",
+  "profileId": "theater0",
+  "version": "ot65",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 1
+}

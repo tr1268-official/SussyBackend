@@ -1,0 +1,90 @@
+{
+  "_id": "LawinServer",
+  "created": "0001-01-01T00:00:00.000Z",
+  "updated": "2026-08-23T18:18:49.122Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "default",
+  "profileId": "profile0",
+  "version": "ot65",
+  "items": {
+    "Quest:homebaseonboarding": {
+      "templateId": "Quest:homebaseonboarding",
+      "attributes": {
+        "quest_state": "Active",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "completion_hbonboarding_namehomebase": 0,
+        "completion_hbonboarding_completezone": 1,
+        "completion_hbonboarding_watchsatellitecine": 1,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Quest:outpostquest_t1_l1": {
+      "templateId": "Quest:outpostquest_t1_l1",
+      "attributes": {
+        "quest_state": "Claimed",
+        "level": -1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Currency:MtxPurchased": {
+      "templateId": "Currency:MtxPurchased",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 100000
+    },
+    "Token:accountinventorybonus": {
+      "templateId": "Token:accountinventorybonus",
+      "attributes": {
+        "level": 1
+      },
+      "quantity": 25
+    }
+  },
+  "stats": {
+    "templateId": "profile_v2",
+    "attributes": {
+      "level": 1,
+      "xp": 0,
+      "level_info": 0,
+      "defaultHeroId": "",
+      "homebase": {
+        "townName": "",
+        "flagPattern": 0,
+        "flagColor": 0.5
+      },
+      "quest_manager": {
+        "dailyLoginInterval": "0001-01-01T00:00:00.000Z",
+        "dailyQuestRerolls": 1
+      },
+      "login_reward": {
+        "last_claim_time": "0001-01-01T00:00:00.000Z"
+      },
+      "daily_rewards": {
+        "last_claim_time": "0001-01-01T00:00:00.000Z",
+        "next_level": 0
+      },
+      "gameplay_stats": [],
+      "mode_loadouts": [
+        {
+          "loadoutName": "Default",
+          "selectedGadgets": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "inventory_limit_bonus": 0
+    }
+  },
+  "commandRevision": 1
+}

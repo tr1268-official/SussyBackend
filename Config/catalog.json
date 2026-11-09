@@ -1,0 +1,233 @@
+{
+    "refreshIntervalHrs": 24,
+    "dailyPurchaseHrs": 24,
+    "expiration": "9999-12-31T00:00:00.000Z",
+    "storefronts": [
+        {
+            "name": "BRSeasonStorefront",
+            "catalogEntries": [
+                {
+                    "offerId": "v2:/AerialAssaultOne",
+                    "devName": "Aerial Assault One",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 500,
+                            "finalPrice": 500,
+                            "saleExpiration": "9999-12-31T00:00:00.000Z",
+                            "basePrice": 500
+                        }
+                    ],
+                    "categories": ["Panel 1"],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "refundable": false,
+                    "appStoreId": [""],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "AthenaGlider:Glider_ID_001",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "metaInfo": [],
+                    "sortPriority": 0,
+                    "itemGrants": [
+                        {
+                            "templateId": "AthenaGlider:Glider_ID_001",
+                            "quantity": 1
+                        }
+                    ],
+                    "attributes": {}
+                },
+                {
+                    "offerId": "v2:/AerialAssaultTrooper",
+                    "devName": "Aerial Assault Trooper",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 1200,
+                            "finalPrice": 1200,
+                            "saleExpiration": "9999-12-31T00:00:00.000Z",
+                            "basePrice": 1200
+                        }
+                    ],
+                    "categories": ["Panel 2"],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "refundable": false,
+                    "appStoreId": [""],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "AthenaCharacter:CID_017_Athena_Commando_M",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "metaInfo": [],
+                    "sortPriority": 0,
+                    "itemGrants": [
+                        {
+                            "templateId": "AthenaCharacter:CID_017_Athena_Commando_M",
+                            "quantity": 1
+                        }
+                    ],
+                    "attributes": {}
+                },
+                {
+                    "offerId": "v2:/RenegadeRaider",
+                    "devName": "Renegade Raider",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 1200,
+                            "finalPrice": 1200,
+                            "saleExpiration": "9999-12-31T00:00:00.000Z",
+                            "basePrice": 1200
+                        }
+                    ],
+                    "categories": ["Panel 3"],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "refundable": false,
+                    "appStoreId": [""],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "AthenaCharacter:CID_028_Athena_Commando_F",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "metaInfo": [],
+                    "sortPriority": 0,
+                    "itemGrants": [
+                        {
+                            "templateId": "AthenaCharacter:CID_028_Athena_Commando_F",
+                            "quantity": 1
+                        }
+                    ],
+                    "attributes": {}
+                },
+                {
+                    "offerId": "v2:/RaidersRevenge",
+                    "devName": "Raider's Revenge",
+                    "offerType": "StaticPrice",
+                    "prices": [
+                        {
+                            "currencyType": "MtxCurrency",
+                            "currencySubType": "",
+                            "regularPrice": 1500,
+                            "finalPrice": 1500,
+                            "saleExpiration": "9999-12-31T00:00:00.000Z",
+                            "basePrice": 1500
+                        }
+                    ],
+                    "categories": ["Panel 4"],
+                    "dailyLimit": -1,
+                    "weeklyLimit": -1,
+                    "monthlyLimit": -1,
+                    "refundable": false,
+                    "appStoreId": [""],
+                    "requirements": [
+                        {
+                            "requirementType": "DenyOnItemOwnership",
+                            "requiredId": "AthenaPickaxe:Pickaxe_Lockjaw",
+                            "minQuantity": 1
+                        }
+                    ],
+                    "metaInfo": [],
+                    "sortPriority": 0,
+                    "itemGrants": [
+                        {
+                            "templateId": "AthenaPickaxe:Pickaxe_Lockjaw",
+                            "quantity": 1
+                        }
+                    ],
+                    "attributes": {}
+                }
+            ]
+        },
+        {
+            "name": "BRDailyStorefront",
+            "catalogEntries": []
+        },
+        {
+            "name": "BRWeeklyStorefront",
+            "catalogEntries": []
+        },
+        {
+            "name": "CurrencyStorefront",
+            "catalogEntries": [
+                {
+                    "offerId": "9b5e1a0c4f7d4a2e8b1c3d5f7a9e0b21",
+                    "devName": "1000 V-Bucks",
+                    "offerType": "StaticPrice",
+                    "prices": [{ "currencyType": "RealMoney", "currencySubType": "", "regularPrice": 999, "finalPrice": 999, "saleExpiration": "9999-12-31T23:59:59.999Z", "basePrice": 999 }],
+                    "categories": [], "dailyLimit": -1, "weeklyLimit": -1, "monthlyLimit": -1,
+                    "appStoreId": ["offer://MtxPack1000", "offer://MtxPack1000", "offer://MtxPack1000", "offer://MtxPack1000", "offer://MtxPack1000", "offer://MtxPack1000", "offer://MtxPack1000", "offer://MtxPack1000", "offer://MtxPack1000"],
+                    "requirements": [],
+                    "metaInfo": [{ "key": "MtxQuantity", "value": "1000" }, { "key": "MtxBonus", "value": "0" }, { "key": "currency", "value": "EUR" }],
+                    "catalogGroup": "", "catalogGroupPriority": 0, "sortPriority": 3,
+                    "title": "1,000 V-Bucks", "shortDescription": "",
+                    "description": "In-game currency you can spend on new outfits, gliders, pickaxes and the Battle Pass.",
+                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack1000.DA_MtxPack1000",
+                    "itemGrants": []
+                },
+                {
+                    "offerId": "a1c2e3f4b5d6c7e8a9b0c1d2e3f4a5b6",
+                    "devName": "2800 V-Bucks",
+                    "offerType": "StaticPrice",
+                    "prices": [{ "currencyType": "RealMoney", "currencySubType": "", "regularPrice": 2499, "finalPrice": 2499, "saleExpiration": "9999-12-31T23:59:59.999Z", "basePrice": 2499 }],
+                    "categories": [], "dailyLimit": -1, "weeklyLimit": -1, "monthlyLimit": -1,
+                    "appStoreId": ["offer://MtxPack2800", "offer://MtxPack2800", "offer://MtxPack2800", "offer://MtxPack2800", "offer://MtxPack2800", "offer://MtxPack2800", "offer://MtxPack2800", "offer://MtxPack2800", "offer://MtxPack2800"],
+                    "requirements": [],
+                    "metaInfo": [{ "key": "MtxQuantity", "value": "2800" }, { "key": "MtxBonus", "value": "300" }, { "key": "currency", "value": "EUR" }],
+                    "catalogGroup": "", "catalogGroupPriority": 0, "sortPriority": 2,
+                    "title": "2,800 V-Bucks", "shortDescription": "",
+                    "description": "In-game currency you can spend on new outfits, gliders, pickaxes and the Battle Pass.",
+                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack2800.DA_MtxPack2800",
+                    "itemGrants": []
+                },
+                {
+                    "offerId": "b2d3f4a5c6e7d8f9a0b1c2d3e4f5a6b7",
+                    "devName": "7500 V-Bucks",
+                    "offerType": "StaticPrice",
+                    "prices": [{ "currencyType": "RealMoney", "currencySubType": "", "regularPrice": 5999, "finalPrice": 5999, "saleExpiration": "9999-12-31T23:59:59.999Z", "basePrice": 5999 }],
+                    "categories": [], "dailyLimit": -1, "weeklyLimit": -1, "monthlyLimit": -1,
+                    "appStoreId": ["offer://MtxPack7500", "offer://MtxPack7500", "offer://MtxPack7500", "offer://MtxPack7500", "offer://MtxPack7500", "offer://MtxPack7500", "offer://MtxPack7500", "offer://MtxPack7500", "offer://MtxPack7500"],
+                    "requirements": [],
+                    "metaInfo": [{ "key": "MtxQuantity", "value": "7500" }, { "key": "MtxBonus", "value": "1500" }, { "key": "currency", "value": "EUR" }],
+                    "catalogGroup": "", "catalogGroupPriority": 0, "sortPriority": 1,
+                    "title": "7,500 V-Bucks", "shortDescription": "",
+                    "description": "In-game currency you can spend on new outfits, gliders, pickaxes and the Battle Pass.",
+                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack7500.DA_MtxPack7500",
+                    "itemGrants": []
+                },
+                {
+                    "offerId": "c3e4a5b6d7f8a9b0c1d2e3f4a5b6c7d8",
+                    "devName": "13500 V-Bucks",
+                    "offerType": "StaticPrice",
+                    "prices": [{ "currencyType": "RealMoney", "currencySubType": "", "regularPrice": 9999, "finalPrice": 9999, "saleExpiration": "9999-12-31T23:59:59.999Z", "basePrice": 9999 }],
+                    "categories": [], "dailyLimit": -1, "weeklyLimit": -1, "monthlyLimit": -1,
+                    "appStoreId": ["offer://MtxPack13500", "offer://MtxPack13500", "offer://MtxPack13500", "offer://MtxPack13500", "offer://MtxPack13500", "offer://MtxPack13500", "offer://MtxPack13500", "offer://MtxPack13500", "offer://MtxPack13500"],
+                    "requirements": [],
+                    "metaInfo": [{ "key": "MtxQuantity", "value": "13500" }, { "key": "MtxBonus", "value": "3500" }, { "key": "currency", "value": "EUR" }],
+                    "catalogGroup": "", "catalogGroupPriority": 0, "sortPriority": 0,
+                    "title": "13,500 V-Bucks", "shortDescription": "",
+                    "description": "In-game currency you can spend on new outfits, gliders, pickaxes and the Battle Pass.",
+                    "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack13500.DA_MtxPack13500",
+                    "itemGrants": []
+                }
+            ]
+        }
+    ]
+}

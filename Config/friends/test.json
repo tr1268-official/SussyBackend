@@ -1,0 +1,15 @@
+{
+  "accountId": "test",
+  "list": {
+    "accepted": [
+      {
+        "accountId": "tr1268_v2",
+        "created": "2026-09-21T18:49:00.732Z",
+        "favorite": false
+      }
+    ],
+    "incoming": [],
+    "outgoing": [],
+    "blocked": []
+  }
+}

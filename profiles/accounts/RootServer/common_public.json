@@ -1,0 +1,20 @@
+{
+  "_id": "LawinServer",
+  "created": "0001-01-01T00:00:00.000Z",
+  "updated": "2026-09-22T16:17:34.366Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "RootServer",
+  "profileId": "common_public",
+  "version": "no_version",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "DefaultColor15",
+      "homebase_name": "Homebase",
+      "banner_icon": "SurvivalBannerStonewoodComplete",
+      "level": 1
+    }
+  },
+  "commandRevision": 1
+}

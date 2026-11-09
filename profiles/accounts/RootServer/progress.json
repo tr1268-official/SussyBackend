@@ -1,0 +1,35 @@
+{
+  "lifetime": {
+    "bwin": 3,
+    "quests.play_matches": 3,
+    "win": 3
+  },
+  "sets": {
+    "chestPOIs": [],
+    "landingSpots": [
+      "Unknown"
+    ],
+    "gnaughtyGnome": [],
+    "gniceGnome": [],
+    "letters": [],
+    "rubberDuckie": []
+  },
+  "starsTotal": 0,
+  "starPool": 0,
+  "matches": 3,
+  "starsCollected": [],
+  "seen": [
+    {
+      "k": "m:1790442049",
+      "t": 1790442049823
+    },
+    {
+      "k": "m:1790446913",
+      "t": 1790446914020
+    },
+    {
+      "k": "m:1790447433",
+      "t": 1790447433440
+    }
+  ]
+}

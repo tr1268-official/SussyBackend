@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>LawinServer — Live Matchmaking Queue</title>
+<style>
+    :root { color-scheme: dark; }
+    body {
+        background: #0e0e12;
+        color: #e8e8f0;
+        font-family: "Segoe UI", Arial, sans-serif;
+        margin: 0;
+        padding: 40px 20px;
+    }
+    .wrap { max-width: 720px; margin: 0 auto; }
+    h1 { font-size: 26px; margin: 0 0 4px; }
+    .sub { color: #8a8a9a; margin-bottom: 28px; font-size: 14px; }
+    .cards { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 28px; }
+    .card {
+        background: #17171f;
+        border: 1px solid #26262f;
+        border-radius: 10px;
+        padding: 16px 20px;
+        min-width: 150px;
+    }
+    .card .label { color: #8a8a9a; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+    .card .value { font-size: 30px; font-weight: 600; margin-top: 6px; }
+    table { width: 100%; border-collapse: collapse; background: #17171f; border-radius: 10px; overflow: hidden; }
+    th, td { text-align: left; padding: 12px 18px; border-bottom: 1px solid #26262f; font-size: 14px; }
+    th { color: #8a8a9a; font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+    tr:last-child td { border-bottom: none; }
+    .count { font-weight: 600; }
+    .empty { color: #5a5a68; font-style: italic; padding: 24px 18px; }
+    .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 8px; }
+    .dot.on { background: #3ddc84; }
+    .dot.off { background: #ff5555; }
+    .dot.unknown { background: #8888a0; }
+    .foot { color: #5a5a68; font-size: 12px; margin-top: 18px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+    <h1>Live Matchmaking Queue</h1>
+    <div class="sub">Real number of players queued per playlist — refreshes every 2 seconds.</div>
+
+    <div class="cards">
+        <div class="card"><div class="label">Players in queue</div><div class="value" id="total">–</div></div>
+        <div class="card"><div class="label">Game server</div><div class="value" id="server" style="font-size:20px">–</div></div>
+        <div class="card"><div class="label">Server status</div><div class="value" style="font-size:20px"><span class="dot unknown" id="dot"></span><span id="portstate">–</span></div></div>
+    </div>
+
+    <table>
+        <thead><tr><th>Playlist</th><th>Players in queue</th></tr></thead>
+        <tbody id="rows"></tbody>
+    </table>
+
+    <div class="foot" id="updated"></div>
+</div>
+
+<script>
+async function refresh() {
+    try {
+        const r = await fetch("/matchmaking/queue");
+        const q = await r.json();
+
+        document.getElementById("total").textContent = q.total;
+        document.getElementById("server").textContent = q.gameServer.ip + ":" + q.gameServer.port;
+
+        const entries = Object.entries(q.ports || {});
+        const last = entries.length ? entries[entries.length - 1][1] : null;
+        const dot = document.getElementById("dot");
+        dot.className = "dot " + (last ? (last.open ? "on" : "off") : "unknown");
+        document.getElementById("portstate").textContent =
+            last ? (last.open ? "Hosting" : "Waiting for port") : "Unknown";
+
+        const rows = document.getElementById("rows");
+        rows.innerHTML = "";
+        const playlists = Object.entries(q.playlists || {});
+        if (!playlists.length) {
+            rows.innerHTML = '<tr><td colspan="2" class="empty">Nobody is in queue right now.</td></tr>';
+        } else {
+            for (const [playlist, count] of playlists) {
+                const tr = document.createElement("tr");
+                tr.innerHTML = "<td>" + playlist + "</td><td class='count'>" + count + "</td>";
+                rows.appendChild(tr);
+            }
+        }
+        document.getElementById("updated").textContent = "Updated " + q.updatedAt;
+    } catch (e) {
+        document.getElementById("updated").textContent = "Failed to reach the backend: " + e.message;
+    }
+}
+setInterval(refresh, 2000);
+refresh();
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "friends": [
+    {
+      "accountId": "tr1268",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2026-08-23T00:00:19.163Z"
+    },
+    {
+      "accountId": "test",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2026-08-23T00:10:21.499Z"
+    }
+  ],
+  "incoming": [],
+  "outgoing": [],
+  "suggested": [],
+  "blocklist": [],
+  "settings": {
+    "acceptInvites": "public"
+  }
+}

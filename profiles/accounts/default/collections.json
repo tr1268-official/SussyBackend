@@ -1,0 +1,15 @@
+{
+  "_id": "LawinServer",
+  "created": "0001-01-01T00:00:00.000Z",
+  "updated": "2026-08-23T18:50:53.392Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "default",
+  "profileId": "collections",
+  "version": "no_version",
+  "items": {},
+  "stats": {
+    "attributes": {}
+  },
+  "commandRevision": 0
+}

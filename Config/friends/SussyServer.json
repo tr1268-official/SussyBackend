@@ -1,0 +1,9 @@
+{
+  "accountId": "SussyServer",
+  "list": {
+    "accepted": [],
+    "incoming": [],
+    "outgoing": [],
+    "blocked": []
+  }
+}

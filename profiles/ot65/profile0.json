@@ -1,0 +1,94 @@
+{
+  "created": "0001-01-01T00:00:00.000Z",
+  "updated": "0001-01-01T00:00:00.000Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "LawinServer",
+  "profileId": "profile0",
+  "version": "ot65",
+  "items": {
+    "homebaseonboarding": {
+      "templateId": "Quest.homebaseonboarding",
+      "attributes": {
+        "quest_state": "Active",
+        "state": "Active",
+        "level": -1,
+        "item_seen": true,
+        "bItemSeen": 1,
+        "sent_new_notification": true,
+        "bSentNewNotification": true,
+        "completion_hbonboarding_namehomebase": 0,
+        "completion_hbonboarding_completezone": 1,
+        "completion_hbonboarding_watchsatellitecine": 1,
+        "bAllObjectivesComplete": false,
+        "xp": 0,
+        "favorite": false,
+        "last_state_change_time": "0001-01-01T00:00:00.000Z"
+      },
+      "quantity": 1
+    },
+    "outpostquest_t1_l1": {
+      "templateId": "Quest.outpostquest_t1_l1",
+      "attributes": {
+        "quest_state": "Claimed",
+        "state": "Claimed",
+        "level": -1,
+        "item_seen": true,
+        "bItemSeen": 1,
+        "sent_new_notification": true,
+        "bAllObjectivesComplete": true,
+        "xp": 0,
+        "favorite": false,
+        "last_state_change_time": "0001-01-01T00:00:00.000Z"
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "templateId": "profile_v2",
+    "attributes": {
+      "level": 1,
+      "xp": 0,
+      "level_info": 0,
+      "defaultHeroId": "",
+      "homebase": {
+        "townName": "Homebase",
+        "flagPattern": 0,
+        "flagColor": 0.5
+      },
+      "quest_manager": {
+        "dailyLoginInterval": "0001-01-01T00:00:00.000Z",
+        "dailyQuestRerolls": 1
+      },
+      "login_reward": {
+        "last_claim_time": "0001-01-01T00:00:00.000Z"
+      },
+      "daily_rewards": {
+        "last_claim_time": "0001-01-01T00:00:00.000Z",
+        "next_level": 0
+      },
+      "gameplay_stats": [],
+      "mode_loadouts": [
+        {
+          "loadoutName": "Default",
+          "selectedGadgets": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "inventory_limit_bonus": 1000,
+      "named_counters": {
+        "SubGameSelectCount_Campaign": {
+          "current_count": 1,
+          "last_incremented_time": ""
+        },
+        "SubGameSelectCount_Athena": {
+          "current_count": 0,
+          "last_incremented_time": ""
+        }
+      }
+    }
+  },
+  "commandRevision": 1
+}

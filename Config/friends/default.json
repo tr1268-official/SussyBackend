@@ -1,0 +1,9 @@
+{
+  "accountId": "default",
+  "list": {
+    "accepted": [],
+    "incoming": [],
+    "outgoing": [],
+    "blocked": []
+  }
+}

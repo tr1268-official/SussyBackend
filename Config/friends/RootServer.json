@@ -1,0 +1,9 @@
+{
+  "accountId": "RootServer",
+  "list": {
+    "accepted": [],
+    "incoming": [],
+    "outgoing": [],
+    "blocked": []
+  }
+}

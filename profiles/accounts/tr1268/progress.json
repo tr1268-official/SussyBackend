@@ -1,0 +1,58 @@
+{
+  "lifetime": {
+    "bwin": 2,
+    "damageByWeaponType.total": 800,
+    "eliminationsByWeaponType.total": 8,
+    "kills": 8,
+    "quests.play_matches": 8,
+    "win": 2
+  },
+  "sets": {
+    "chestPOIs": [],
+    "landingSpots": [
+      "Unknown"
+    ],
+    "gnaughtyGnome": [],
+    "gniceGnome": [],
+    "letters": [],
+    "rubberDuckie": []
+  },
+  "starsTotal": 0,
+  "starPool": 0,
+  "matches": 8,
+  "starsCollected": [],
+  "seen": [
+    {
+      "k": "m:1790437850",
+      "t": 1790437850550
+    },
+    {
+      "k": "m:1790439059",
+      "t": 1790439059040
+    },
+    {
+      "k": "m:1790439668",
+      "t": 1790439668520
+    },
+    {
+      "k": "m:1790440354",
+      "t": 1790440354631
+    },
+    {
+      "k": "m:1790440859",
+      "t": 1790440859559
+    },
+    {
+      "k": "m:1790441433",
+      "t": 1790441433320
+    },
+    {
+      "k": "m:1790442050",
+      "t": 1790442050470
+    },
+    {
+      "k": "m:1790446914",
+      "t": 1790446914369
+    }
+  ]
+}

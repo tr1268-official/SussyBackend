@@ -1,0 +1,2614 @@
+{
+  "created": "0001-01-01T00:00:00.000Z",
+  "updated": "2026-09-23T17:04:58.703Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "rootlander",
+  "profileId": "profile0",
+  "version": "ot65",
+  "items": {
+    "homebaseonboarding": {
+      "templateId": "Quest.homebaseonboarding",
+      "attributes": {
+        "quest_state": "Active",
+        "state": "Active",
+        "level": -1,
+        "item_seen": true,
+        "bItemSeen": 1,
+        "sent_new_notification": true,
+        "bSentNewNotification": true,
+        "completion_hbonboarding_namehomebase": 0,
+        "completion_hbonboarding_completezone": 1,
+        "completion_hbonboarding_watchsatellitecine": 1,
+        "bAllObjectivesComplete": false,
+        "xp": 0,
+        "favorite": false,
+        "last_state_change_time": "0001-01-01T00:00:00.000Z"
+      },
+      "quantity": 1
+    },
+    "outpostquest_t1_l1": {
+      "templateId": "Quest.outpostquest_t1_l1",
+      "attributes": {
+        "quest_state": "Claimed",
+        "state": "Claimed",
+        "level": -1,
+        "item_seen": true,
+        "bItemSeen": 1,
+        "sent_new_notification": true,
+        "bAllObjectivesComplete": true,
+        "xp": 0,
+        "favorite": false,
+        "last_state_change_time": "0001-01-01T00:00:00.000Z"
+      },
+      "quantity": 1
+    },
+    "bd4f5088-8c83-42f4-9aa3-58bd31b938d6": {
+      "templateId": "MyFortBuilding.Building_SupplyDrop",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "61df42fc-a531-472f-b281-9199d22259e9": {
+      "templateId": "MyFortBuilding.Building_SupplyDrop_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "58b78c03-b09d-494a-a03d-b0d1184b0514": {
+      "templateId": "MyFortBuilding.Building_SupplyDrop_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "82e59e41-a2c6-46db-ba15-b9c7bb6b99d8": {
+      "templateId": "MyFortBuilding.Building_SupplyDrop_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ffb7b873-7201-4aa0-92be-ddb858a17c47": {
+      "templateId": "MyFortBuilding.Building_SupplyDrop_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "4e173af0-90f7-4b9a-9eef-c99ae80737b5": {
+      "templateId": "MyFortBuilding.Building_SupplyDrop_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "6e6698ea-8b55-4bf2-87ed-7e2e23db2de6": {
+      "templateId": "MyFortBuilding.Building_Dojo",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "2d226a30-3d9c-4c88-ad9b-37c806529ea1": {
+      "templateId": "MyFortBuilding.Building_MilitaryHQ",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ac922adc-767e-4928-8c1d-e8991fd45dc9": {
+      "templateId": "MyFortBuilding.Building_SurvivalBunker",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "5df78f1d-ba9c-454b-9acb-7036d4c4af8d": {
+      "templateId": "MyFortBuilding.Building_TechLab",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "e63bb257-053d-4c4d-b290-f4a3d25734de": {
+      "templateId": "MyFortBuilding.Building_Dojo_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "b2129003-bb86-4a1c-9d4c-aea89fe7ed1c": {
+      "templateId": "MyFortBuilding.Building_Dojo_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "45d23254-e325-400a-9642-c9dc9ebe8f7e": {
+      "templateId": "MyFortBuilding.Building_Dojo_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "78cae96e-2823-47fa-9602-b3cbb5fd41a7": {
+      "templateId": "MyFortBuilding.Building_Dojo_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "efa11e7e-0685-4c3d-8e3e-c40da757ed9d": {
+      "templateId": "MyFortBuilding.Building_Dojo_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ccb64556-652f-4b4c-9d12-73afaaf75b17": {
+      "templateId": "MyFortBuilding.Building_MilitaryHQ_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "b4882e60-ef03-44ef-a7cc-8f8b07028cbe": {
+      "templateId": "MyFortBuilding.Building_MilitaryHQ_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "0422927b-d065-4a5f-ac41-62b64c4401e4": {
+      "templateId": "MyFortBuilding.Building_MilitaryHQ_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "0827c954-da5b-4064-ba47-1a85aded6190": {
+      "templateId": "MyFortBuilding.Building_MilitaryHQ_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "73f72e4a-4400-4e72-b2a2-ff951e6eb9af": {
+      "templateId": "MyFortBuilding.Building_MilitaryHQ_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "5e5707f4-34ab-4f70-9b1e-7dec7c777588": {
+      "templateId": "MyFortBuilding.Building_SurvivalBunker_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "0595ccf6-42d1-4dae-9c99-27d0e5f583ea": {
+      "templateId": "MyFortBuilding.Building_SurvivalBunker_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "4d634cde-3b5d-489d-8f2b-7f18a63e2a1c": {
+      "templateId": "MyFortBuilding.Building_SurvivalBunker_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "d3edb690-7f64-4240-993c-130d2de59687": {
+      "templateId": "MyFortBuilding.Building_SurvivalBunker_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "c3e6075b-da82-4921-a1b3-7e5578b9b71f": {
+      "templateId": "MyFortBuilding.Building_SurvivalBunker_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "6f30c978-4c73-467f-9786-ebe999e38eb7": {
+      "templateId": "MyFortBuilding.Building_TechLab_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "b13ee965-ebc1-4ebe-9c44-65561094a577": {
+      "templateId": "MyFortBuilding.Building_TechLab_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "a25d4f9a-ae38-4b29-8922-477979f319cb": {
+      "templateId": "MyFortBuilding.Building_TechLab_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "13444ef0-b185-4cea-a470-6f1a5aa1c4a7": {
+      "templateId": "MyFortBuilding.Building_TechLab_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "22aaabe3-fdf1-4095-bda7-03ae4d559121": {
+      "templateId": "MyFortBuilding.Building_TechLab_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "99c38fa3-c7f3-49c3-abfa-6de5ecff595a": {
+      "templateId": "MyFortBuilding.Building_CommandCenter",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "Idle",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "c7713735-3402-480e-bcda-e140c94b2a44": {
+      "templateId": "MyFortBuilding.Building_CommandCenter_Warehouse",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "47b19eea-62ee-4525-8873-fcb5c24bcf29": {
+      "templateId": "MyFortBuilding.Building_ScienceLab",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "6f30a726-e727-41c5-91b2-cf7c25bb1ba7": {
+      "templateId": "MyFortBuilding.Building_ScienceLab_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "318a083c-c682-4624-83cf-28ac3e14eacb": {
+      "templateId": "MyFortBuilding.Building_ScienceLab_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "817a952c-896d-449f-8327-c327b49119a1": {
+      "templateId": "MyFortBuilding.Building_ScienceLab_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ca7fd4f4-5e37-4faf-a14c-9006ff856902": {
+      "templateId": "MyFortBuilding.Building_ScienceLab_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "860b45ef-f5b6-4897-9042-2f0766b799d6": {
+      "templateId": "MyFortBuilding.Building_ScienceLab_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "c1ab855e-4c7c-4ef6-a816-fcb3fa1ea856": {
+      "templateId": "MyFortBuilding.Building_Keep",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "90c563be-1e1e-4e26-96a8-c1ba3c0e28ac": {
+      "templateId": "MyFortBuilding.Building_Keep_AmmoStash",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "7ff981f3-1f9c-4c09-b052-97ac00b9118c": {
+      "templateId": "MyFortBuilding.Building_Keep_Armory",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "79c2f043-2341-48cd-8d98-414ae58f8335": {
+      "templateId": "MyFortBuilding.Building_Keep_Medical",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ef429712-294c-4237-afd7-57dc17fa58fd": {
+      "templateId": "MyFortBuilding.Building_Keep_Storage",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "f9513ce0-6811-4074-9ba9-aeae97a03083": {
+      "templateId": "MyFortBuilding.Building_Keep_Workshop",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "4d6297f2-ae65-4f30-aedc-bb997655871b": {
+      "templateId": "MyFortBuilding.Building_Manor",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ee183005-4531-4e19-85d0-42edad0d6c9a": {
+      "templateId": "MyFortBuilding.Building_CommandCenter_ExpeditionTeam",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "5e977b65-15b1-448d-9970-9885a1913de6": {
+      "templateId": "MyFortBuilding.Building_CommandCenter_Farm",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "a3ce3f8f-adfd-4adf-8d3d-05c7718b6eb4": {
+      "templateId": "MyFortBuilding.Building_CommandCenter_ManufacturingPlant",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ba13cd02-d04d-41ab-9934-bd6201e17f83": {
+      "templateId": "MyFortBuilding.Building_CommandCenter_PowerStation",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "258e24a3-0042-4f67-ba3a-84426d924eeb": {
+      "templateId": "MyFortBuilding.Building_Collect",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "79ff9726-2937-4f32-870c-45f32790ca22": {
+      "templateId": "MyFortBuilding.Building_EngineeringSchool",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ac216ab0-78bb-4a53-8e0c-04f450318785": {
+      "templateId": "MyFortBuilding.Building_ExplorersGuild",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ee216e77-fc82-4649-b0d9-9ad029c25307": {
+      "templateId": "MyFortBuilding.Building_FiringRange",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "a555ef1e-a5c7-41e3-87fc-cdf9100dca34": {
+      "templateId": "MyFortBuilding.Building_GadgetWorkshop",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "c2dac1ed-acdb-4539-bc11-0ec743f1e925": {
+      "templateId": "MyFortBuilding.Building_Gym",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "d1c2ecac-d6ef-496d-b0d0-549415b7c841": {
+      "templateId": "MyFortBuilding.Building_Hospital",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "aab31145-3920-41e9-9937-5a69345aed45": {
+      "templateId": "MyFortBuilding.Building_MartialArtsAcademy",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "3b82a18c-5315-461e-acfe-a99935b56607": {
+      "templateId": "MyFortBuilding.Building_EngineeringSchool_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "de5bfe52-4e20-4039-935b-44d85d05ed70": {
+      "templateId": "MyFortBuilding.Building_EngineeringSchool_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "9d0d4bb3-1052-44fb-8aa9-87f971f486ff": {
+      "templateId": "MyFortBuilding.Building_EngineeringSchool_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "798d591e-e6d5-45b5-a13e-3765af2b323f": {
+      "templateId": "MyFortBuilding.Building_EngineeringSchool_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "97a39cc6-35c0-4319-b164-aa13e61a7482": {
+      "templateId": "MyFortBuilding.Building_EngineeringSchool_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "6013cc82-71af-4c5f-b957-848b6e449ca8": {
+      "templateId": "MyFortBuilding.Building_ExplorersGuild_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "cfcfca10-edbd-4f8a-b560-60467c88b2d3": {
+      "templateId": "MyFortBuilding.Building_ExplorersGuild_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "8b09d3ac-516f-4705-954e-5c60b4328fc0": {
+      "templateId": "MyFortBuilding.Building_ExplorersGuild_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "cf62420c-e022-4ce6-980d-aebe2f073286": {
+      "templateId": "MyFortBuilding.Building_ExplorersGuild_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "51f48ea1-2bbe-497d-8821-bbc5b999725d": {
+      "templateId": "MyFortBuilding.Building_ExplorersGuild_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "ecdaabe3-beff-4771-a2dc-e19b4ded7229": {
+      "templateId": "MyFortBuilding.Building_FiringRange_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "8ac9bf80-a826-4150-a1a6-3fa2a0e390b3": {
+      "templateId": "MyFortBuilding.Building_FiringRange_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "5dea625c-5b74-45db-99f6-703dc85770a2": {
+      "templateId": "MyFortBuilding.Building_FiringRange_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "579fe3fd-85e3-4e5d-93fe-d16480842da2": {
+      "templateId": "MyFortBuilding.Building_FiringRange_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "a70bbbc3-8bee-4876-a26b-15c77b93dcb0": {
+      "templateId": "MyFortBuilding.Building_FiringRange_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "85e8b203-eec8-4055-a38e-8893d4bcc67a": {
+      "templateId": "MyFortBuilding.Building_GadgetWorkshop_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "b4bc94e2-ad98-4852-bdc1-590d45bb3ce6": {
+      "templateId": "MyFortBuilding.Building_GadgetWorkshop_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "49b49a0a-b4e3-456c-bcaa-5329fbfa80ec": {
+      "templateId": "MyFortBuilding.Building_GadgetWorkshop_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "29fd0d4e-2304-4bea-87f2-5ee69cd42dea": {
+      "templateId": "MyFortBuilding.Building_GadgetWorkshop_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "26b10f26-43b6-444b-8788-d8667b20f448": {
+      "templateId": "MyFortBuilding.Building_GadgetWorkshop_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "8d1a487e-5663-4b87-a5a0-85ba5aa44899": {
+      "templateId": "MyFortBuilding.Building_Gym_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "991a28da-dd3d-49df-a9ae-5804c147fce9": {
+      "templateId": "MyFortBuilding.Building_Gym_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "5bac5992-edb8-4fce-92a4-dbf923ff5fd9": {
+      "templateId": "MyFortBuilding.Building_Gym_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "887cc972-f428-4de9-be24-831d9418420b": {
+      "templateId": "MyFortBuilding.Building_Gym_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "d19c21ed-c422-4300-b454-842633b30bfa": {
+      "templateId": "MyFortBuilding.Building_Gym_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "5be02e79-00e8-441c-9301-1ec560a7128d": {
+      "templateId": "MyFortBuilding.Building_Hospital_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "e85c7ff9-9c04-4613-989e-3d9374455f1e": {
+      "templateId": "MyFortBuilding.Building_Hospital_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "41fd2c67-4905-4a9d-9251-ec2f4e412629": {
+      "templateId": "MyFortBuilding.Building_Hospital_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "5c96f351-f556-4664-bfc7-b788fa802e6f": {
+      "templateId": "MyFortBuilding.Building_Hospital_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "d5d11f91-b743-41ab-8804-dfd6e031848f": {
+      "templateId": "MyFortBuilding.Building_Hospital_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "0881cd24-df20-4faf-b2db-6586dec8fb17": {
+      "templateId": "MyFortBuilding.Building_MartialArtsAcademy_Sub1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "40fcd6a5-1c87-4a29-9a3a-b57643f7532a": {
+      "templateId": "MyFortBuilding.Building_MartialArtsAcademy_Sub2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "e63f5c78-9459-46a0-bf14-788d25eba690": {
+      "templateId": "MyFortBuilding.Building_MartialArtsAcademy_Sub3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "a7b539b7-dff0-4a0a-b09d-c6fe96a9cf38": {
+      "templateId": "MyFortBuilding.Building_MartialArtsAcademy_Sub4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "9120121c-1f29-4dba-893d-ac355e78cc52": {
+      "templateId": "MyFortBuilding.Building_MartialArtsAcademy_Sub5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 0,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false,
+        "buildingState": "CanBuild",
+        "managerInstanceId": "",
+        "workerInstanceIds": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "parentBuildingId": ""
+      },
+      "quantity": 1
+    },
+    "f9cad933-ff0d-48b8-b715-ed0e67c94c3c": {
+      "templateId": "Currency.mtxcomplimentary",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "65411d13-7b87-42e0-9617-db02610693be": {
+      "templateId": "Currency.mtxgiveaway",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "3e0f6083-fcf3-4f8e-81b3-8c81df22f790": {
+      "templateId": "Currency.mtxpurchasebonus",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "ad8bb447-ee4c-4004-a12b-9c5f76407ff8": {
+      "templateId": "Currency.mtxpurchased",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "b79304cf-298a-4729-8e05-7e402268fa01": {
+      "templateId": "AccountResource.constructionplans_advanced",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "312421b6-066e-448e-a9d7-a0507c1acac1": {
+      "templateId": "AccountResource.constructionplans_base",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "5c368fe6-d2f8-4f45-aeff-7ca1fa0f9d54": {
+      "templateId": "AccountResource.constructionplans_class",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "127888ee-fabe-4801-9382-0f29831fe980": {
+      "templateId": "AccountResource.constructionplans_commandcenter",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "3ccc18e4-cdd4-4e14-8061-9f042d82ad10": {
+      "templateId": "AccountResource.manufacturingpartsitemdata",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "fac61a26-b9ed-48a0-a24c-c8137e4ac012": {
+      "templateId": "AccountResource.personnelxp",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "e8ddd4e1-246d-402a-adfe-3b2b65258551": {
+      "templateId": "AccountResource.poweritemdata",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "6c59db37-df86-4a65-9ecf-509d36aefeb9": {
+      "templateId": "AccountResource.schematicxp",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "40944288-db71-495c-8224-bd9bd3ac4bbe": {
+      "templateId": "AccountResource.upgradeplans",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "45a941a5-72e9-4f4b-905e-50055ffecdba": {
+      "templateId": "Resource.metalitemdata",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "000d984d-1e02-49bc-8d22-cfe124fa6480": {
+      "templateId": "Resource.permaniteitemdata",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "0d8e6770-e09d-44d6-87ae-a8e468a6b728": {
+      "templateId": "Resource.stoneitemdata",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "73f55b34-3721-4188-b8bc-ba74c894a9a7": {
+      "templateId": "Resource.wooditemdata",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "9b7be99c-7108-4254-8b72-9baf4cb17744": {
+      "templateId": "Resource.wwdc_wood_fake1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "bb76afbf-6358-451e-82bf-682ac8e5dc31": {
+      "templateId": "Resource.wwdc_wood_fake2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "e11e2d8a-9937-4a39-b2d8-25bdfbf4b4d5": {
+      "templateId": "Resource.wwdc_wood_fake3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "06f4a49d-d929-4b46-91c2-6bf52e9c9779": {
+      "templateId": "Resource.wwdc_wood_fake4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "7cd9cb73-781e-4c0b-a79b-87db8360ca72": {
+      "templateId": "Resource.wwdc_wood_fake5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "69f8660a-70eb-4478-98a9-49e387b42395": {
+      "templateId": "Resource.wwdc_wood_fake6",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    },
+    "a12a9405-76ad-4013-900f-a589f8620a14": {
+      "templateId": "Resource.wwdc_wood_fake7",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "bItemSeen": 0,
+        "xp": 0,
+        "variants": [],
+        "favorite": false
+      },
+      "quantity": 100000
+    }
+  },
+  "stats": {
+    "templateId": "profile_v2",
+    "attributes": {
+      "level": 1,
+      "xp": 0,
+      "level_info": 0,
+      "defaultHeroId": "",
+      "homebase": {
+        "townName": "Homebase",
+        "flagPattern": 0,
+        "flagColor": 0.5
+      },
+      "quest_manager": {
+        "dailyLoginInterval": "0001-01-01T00:00:00.000Z",
+        "dailyQuestRerolls": 1
+      },
+      "login_reward": {
+        "last_claim_time": "0001-01-01T00:00:00.000Z"
+      },
+      "daily_rewards": {
+        "last_claim_time": "0001-01-01T00:00:00.000Z",
+        "next_level": 0
+      },
+      "gameplay_stats": [],
+      "mode_loadouts": [
+        {
+          "loadoutName": "Default",
+          "selectedGadgets": [
+            "",
+            ""
+          ]
+        }
+      ],
+      "inventory_limit_bonus": 1000,
+      "named_counters": {
+        "SubGameSelectCount_Campaign": {
+          "current_count": 1,
+          "last_incremented_time": ""
+        },
+        "SubGameSelectCount_Athena": {
+          "current_count": 0,
+          "last_incremented_time": ""
+        }
+      }
+    }
+  },
+  "commandRevision": 1
+}

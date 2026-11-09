@@ -1,0 +1,2665 @@
+{
+  "_id": "LawinServer",
+  "created": "0001-01-01T00:00:00.000Z",
+  "updated": "2026-11-06T17:49:40.622Z",
+  "rvn": 42,
+  "wipeNumber": 1,
+  "accountId": "tr1268",
+  "profileId": "common_core",
+  "version": "no_version",
+  "items": {
+    "Campaign": {
+      "templateId": "Token:campaignaccess",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Token:campaigntutorialcomplete": {
+      "templateId": "Token:campaigntutorialcomplete",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "sent_new_notification": true,
+        "quest_state": "Claimed",
+        "last_state_change_time": "2017-08-29T21:05:57.087Z"
+      },
+      "quantity": 1
+    },
+    "CampaignFoundersPack1": {
+      "templateId": "Token:founderspack_1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "Currency": {
+      "templateId": "Currency:MtxPurchased",
+      "attributes": {
+        "platform": "EpicPC"
+      },
+      "quantity": 0
+    },
+    "Token:FounderChatUnlock": {
+      "templateId": "Token:FounderChatUnlock",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor1": {
+      "templateId": "HomebaseBannerColor:DefaultColor1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor2": {
+      "templateId": "HomebaseBannerColor:DefaultColor2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor3": {
+      "templateId": "HomebaseBannerColor:DefaultColor3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor4": {
+      "templateId": "HomebaseBannerColor:DefaultColor4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor5": {
+      "templateId": "HomebaseBannerColor:DefaultColor5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor6": {
+      "templateId": "HomebaseBannerColor:DefaultColor6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor7": {
+      "templateId": "HomebaseBannerColor:DefaultColor7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor8": {
+      "templateId": "HomebaseBannerColor:DefaultColor8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor9": {
+      "templateId": "HomebaseBannerColor:DefaultColor9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor10": {
+      "templateId": "HomebaseBannerColor:DefaultColor10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor11": {
+      "templateId": "HomebaseBannerColor:DefaultColor11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor12": {
+      "templateId": "HomebaseBannerColor:DefaultColor12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor13": {
+      "templateId": "HomebaseBannerColor:DefaultColor13",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor14": {
+      "templateId": "HomebaseBannerColor:DefaultColor14",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor15": {
+      "templateId": "HomebaseBannerColor:DefaultColor15",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor16": {
+      "templateId": "HomebaseBannerColor:DefaultColor16",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor17": {
+      "templateId": "HomebaseBannerColor:DefaultColor17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor18": {
+      "templateId": "HomebaseBannerColor:DefaultColor18",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor19": {
+      "templateId": "HomebaseBannerColor:DefaultColor19",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor20": {
+      "templateId": "HomebaseBannerColor:DefaultColor20",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerColor:DefaultColor21": {
+      "templateId": "HomebaseBannerColor:DefaultColor21",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner1": {
+      "templateId": "HomebaseBannerIcon:StandardBanner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner2": {
+      "templateId": "HomebaseBannerIcon:StandardBanner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner3": {
+      "templateId": "HomebaseBannerIcon:StandardBanner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner4": {
+      "templateId": "HomebaseBannerIcon:StandardBanner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner5": {
+      "templateId": "HomebaseBannerIcon:StandardBanner5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner6": {
+      "templateId": "HomebaseBannerIcon:StandardBanner6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner7": {
+      "templateId": "HomebaseBannerIcon:StandardBanner7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner8": {
+      "templateId": "HomebaseBannerIcon:StandardBanner8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner9": {
+      "templateId": "HomebaseBannerIcon:StandardBanner9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner10": {
+      "templateId": "HomebaseBannerIcon:StandardBanner10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner11": {
+      "templateId": "HomebaseBannerIcon:StandardBanner11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner12": {
+      "templateId": "HomebaseBannerIcon:StandardBanner12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner13": {
+      "templateId": "HomebaseBannerIcon:StandardBanner13",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner14": {
+      "templateId": "HomebaseBannerIcon:StandardBanner14",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner15": {
+      "templateId": "HomebaseBannerIcon:StandardBanner15",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner16": {
+      "templateId": "HomebaseBannerIcon:StandardBanner16",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner17": {
+      "templateId": "HomebaseBannerIcon:StandardBanner17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner18": {
+      "templateId": "HomebaseBannerIcon:StandardBanner18",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner19": {
+      "templateId": "HomebaseBannerIcon:StandardBanner19",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner20": {
+      "templateId": "HomebaseBannerIcon:StandardBanner20",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner21": {
+      "templateId": "HomebaseBannerIcon:StandardBanner21",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner22": {
+      "templateId": "HomebaseBannerIcon:StandardBanner22",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner23": {
+      "templateId": "HomebaseBannerIcon:StandardBanner23",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner24": {
+      "templateId": "HomebaseBannerIcon:StandardBanner24",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner25": {
+      "templateId": "HomebaseBannerIcon:StandardBanner25",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner26": {
+      "templateId": "HomebaseBannerIcon:StandardBanner26",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner27": {
+      "templateId": "HomebaseBannerIcon:StandardBanner27",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner28": {
+      "templateId": "HomebaseBannerIcon:StandardBanner28",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner29": {
+      "templateId": "HomebaseBannerIcon:StandardBanner29",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner30": {
+      "templateId": "HomebaseBannerIcon:StandardBanner30",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:StandardBanner31": {
+      "templateId": "HomebaseBannerIcon:StandardBanner31",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier1Banner1": {
+      "templateId": "HomebaseBannerIcon:FounderTier1Banner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier1Banner2": {
+      "templateId": "HomebaseBannerIcon:FounderTier1Banner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier1Banner3": {
+      "templateId": "HomebaseBannerIcon:FounderTier1Banner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier1Banner4": {
+      "templateId": "HomebaseBannerIcon:FounderTier1Banner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier2Banner1": {
+      "templateId": "HomebaseBannerIcon:FounderTier2Banner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier2Banner2": {
+      "templateId": "HomebaseBannerIcon:FounderTier2Banner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier2Banner3": {
+      "templateId": "HomebaseBannerIcon:FounderTier2Banner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier2Banner4": {
+      "templateId": "HomebaseBannerIcon:FounderTier2Banner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier2Banner5": {
+      "templateId": "HomebaseBannerIcon:FounderTier2Banner5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier2Banner6": {
+      "templateId": "HomebaseBannerIcon:FounderTier2Banner6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier3Banner1": {
+      "templateId": "HomebaseBannerIcon:FounderTier3Banner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier3Banner2": {
+      "templateId": "HomebaseBannerIcon:FounderTier3Banner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier3Banner3": {
+      "templateId": "HomebaseBannerIcon:FounderTier3Banner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier3Banner4": {
+      "templateId": "HomebaseBannerIcon:FounderTier3Banner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier3Banner5": {
+      "templateId": "HomebaseBannerIcon:FounderTier3Banner5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier4Banner1": {
+      "templateId": "HomebaseBannerIcon:FounderTier4Banner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier4Banner2": {
+      "templateId": "HomebaseBannerIcon:FounderTier4Banner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier4Banner3": {
+      "templateId": "HomebaseBannerIcon:FounderTier4Banner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier4Banner4": {
+      "templateId": "HomebaseBannerIcon:FounderTier4Banner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier4Banner5": {
+      "templateId": "HomebaseBannerIcon:FounderTier4Banner5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier5Banner1": {
+      "templateId": "HomebaseBannerIcon:FounderTier5Banner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier5Banner2": {
+      "templateId": "HomebaseBannerIcon:FounderTier5Banner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier5Banner3": {
+      "templateId": "HomebaseBannerIcon:FounderTier5Banner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier5Banner4": {
+      "templateId": "HomebaseBannerIcon:FounderTier5Banner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:FounderTier5Banner5": {
+      "templateId": "HomebaseBannerIcon:FounderTier5Banner5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:NewsletterBanner": {
+      "templateId": "HomebaseBannerIcon:NewsletterBanner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner1": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner2": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner3": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner4": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner5": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner6": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner7": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner8": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner9": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner10": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner11": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner12": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner13": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner13",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner14": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner14",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner15": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner15",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner16": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner16",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner17": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner18": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner18",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner19": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner19",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner20": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner20",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner21": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner21",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner22": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner22",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner23": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner23",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner24": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner24",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner25": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner25",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner26": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner26",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner27": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner27",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner28": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner28",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner29": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner29",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner30": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner30",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner31": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner31",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner32": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner32",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner33": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner33",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner34": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner34",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner35": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner35",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner36": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner36",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner37": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner37",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner38": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner38",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner39": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner39",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner40": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner40",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner41": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner41",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner42": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner42",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner43": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner43",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner44": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner44",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner45": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner45",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner46": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner46",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner47": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner47",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner48": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner48",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner49": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner49",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner50": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner50",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner51": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner51",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner52": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner52",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner53": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner53",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT1Banner": {
+      "templateId": "HomebaseBannerIcon:OT1Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT2Banner": {
+      "templateId": "HomebaseBannerIcon:OT2Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT3Banner": {
+      "templateId": "HomebaseBannerIcon:OT3Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT4Banner": {
+      "templateId": "HomebaseBannerIcon:OT4Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT5Banner": {
+      "templateId": "HomebaseBannerIcon:OT5Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT6Banner": {
+      "templateId": "HomebaseBannerIcon:OT6Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT7Banner": {
+      "templateId": "HomebaseBannerIcon:OT7Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT8Banner": {
+      "templateId": "HomebaseBannerIcon:OT8Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT9Banner": {
+      "templateId": "HomebaseBannerIcon:OT9Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT10Banner": {
+      "templateId": "HomebaseBannerIcon:OT10Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OT11Banner": {
+      "templateId": "HomebaseBannerIcon:OT11Banner",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner1": {
+      "templateId": "HomebaseBannerIcon:OtherBanner1",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner2": {
+      "templateId": "HomebaseBannerIcon:OtherBanner2",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner3": {
+      "templateId": "HomebaseBannerIcon:OtherBanner3",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner4": {
+      "templateId": "HomebaseBannerIcon:OtherBanner4",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner5": {
+      "templateId": "HomebaseBannerIcon:OtherBanner5",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner6": {
+      "templateId": "HomebaseBannerIcon:OtherBanner6",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner7": {
+      "templateId": "HomebaseBannerIcon:OtherBanner7",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner8": {
+      "templateId": "HomebaseBannerIcon:OtherBanner8",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner9": {
+      "templateId": "HomebaseBannerIcon:OtherBanner9",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner10": {
+      "templateId": "HomebaseBannerIcon:OtherBanner10",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner11": {
+      "templateId": "HomebaseBannerIcon:OtherBanner11",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner12": {
+      "templateId": "HomebaseBannerIcon:OtherBanner12",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner13": {
+      "templateId": "HomebaseBannerIcon:OtherBanner13",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner14": {
+      "templateId": "HomebaseBannerIcon:OtherBanner14",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner15": {
+      "templateId": "HomebaseBannerIcon:OtherBanner15",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner16": {
+      "templateId": "HomebaseBannerIcon:OtherBanner16",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner17": {
+      "templateId": "HomebaseBannerIcon:OtherBanner17",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner18": {
+      "templateId": "HomebaseBannerIcon:OtherBanner18",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner19": {
+      "templateId": "HomebaseBannerIcon:OtherBanner19",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner20": {
+      "templateId": "HomebaseBannerIcon:OtherBanner20",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner21": {
+      "templateId": "HomebaseBannerIcon:OtherBanner21",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner22": {
+      "templateId": "HomebaseBannerIcon:OtherBanner22",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner23": {
+      "templateId": "HomebaseBannerIcon:OtherBanner23",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner24": {
+      "templateId": "HomebaseBannerIcon:OtherBanner24",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner25": {
+      "templateId": "HomebaseBannerIcon:OtherBanner25",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner26": {
+      "templateId": "HomebaseBannerIcon:OtherBanner26",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner27": {
+      "templateId": "HomebaseBannerIcon:OtherBanner27",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner28": {
+      "templateId": "HomebaseBannerIcon:OtherBanner28",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner29": {
+      "templateId": "HomebaseBannerIcon:OtherBanner29",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner30": {
+      "templateId": "HomebaseBannerIcon:OtherBanner30",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner31": {
+      "templateId": "HomebaseBannerIcon:OtherBanner31",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner32": {
+      "templateId": "HomebaseBannerIcon:OtherBanner32",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner33": {
+      "templateId": "HomebaseBannerIcon:OtherBanner33",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner34": {
+      "templateId": "HomebaseBannerIcon:OtherBanner34",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner35": {
+      "templateId": "HomebaseBannerIcon:OtherBanner35",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner36": {
+      "templateId": "HomebaseBannerIcon:OtherBanner36",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner37": {
+      "templateId": "HomebaseBannerIcon:OtherBanner37",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner38": {
+      "templateId": "HomebaseBannerIcon:OtherBanner38",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner39": {
+      "templateId": "HomebaseBannerIcon:OtherBanner39",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner40": {
+      "templateId": "HomebaseBannerIcon:OtherBanner40",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner41": {
+      "templateId": "HomebaseBannerIcon:OtherBanner41",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner42": {
+      "templateId": "HomebaseBannerIcon:OtherBanner42",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner43": {
+      "templateId": "HomebaseBannerIcon:OtherBanner43",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner44": {
+      "templateId": "HomebaseBannerIcon:OtherBanner44",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner45": {
+      "templateId": "HomebaseBannerIcon:OtherBanner45",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner46": {
+      "templateId": "HomebaseBannerIcon:OtherBanner46",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner47": {
+      "templateId": "HomebaseBannerIcon:OtherBanner47",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner48": {
+      "templateId": "HomebaseBannerIcon:OtherBanner48",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner49": {
+      "templateId": "HomebaseBannerIcon:OtherBanner49",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner50": {
+      "templateId": "HomebaseBannerIcon:OtherBanner50",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner51": {
+      "templateId": "HomebaseBannerIcon:OtherBanner51",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner52": {
+      "templateId": "HomebaseBannerIcon:OtherBanner52",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner53": {
+      "templateId": "HomebaseBannerIcon:OtherBanner53",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner54": {
+      "templateId": "HomebaseBannerIcon:OtherBanner54",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner55": {
+      "templateId": "HomebaseBannerIcon:OtherBanner55",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner56": {
+      "templateId": "HomebaseBannerIcon:OtherBanner56",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner57": {
+      "templateId": "HomebaseBannerIcon:OtherBanner57",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner58": {
+      "templateId": "HomebaseBannerIcon:OtherBanner58",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner59": {
+      "templateId": "HomebaseBannerIcon:OtherBanner59",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner60": {
+      "templateId": "HomebaseBannerIcon:OtherBanner60",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner61": {
+      "templateId": "HomebaseBannerIcon:OtherBanner61",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner62": {
+      "templateId": "HomebaseBannerIcon:OtherBanner62",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner63": {
+      "templateId": "HomebaseBannerIcon:OtherBanner63",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner64": {
+      "templateId": "HomebaseBannerIcon:OtherBanner64",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner65": {
+      "templateId": "HomebaseBannerIcon:OtherBanner65",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner66": {
+      "templateId": "HomebaseBannerIcon:OtherBanner66",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner67": {
+      "templateId": "HomebaseBannerIcon:OtherBanner67",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner68": {
+      "templateId": "HomebaseBannerIcon:OtherBanner68",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner69": {
+      "templateId": "HomebaseBannerIcon:OtherBanner69",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner70": {
+      "templateId": "HomebaseBannerIcon:OtherBanner70",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner71": {
+      "templateId": "HomebaseBannerIcon:OtherBanner71",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner72": {
+      "templateId": "HomebaseBannerIcon:OtherBanner72",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner73": {
+      "templateId": "HomebaseBannerIcon:OtherBanner73",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner74": {
+      "templateId": "HomebaseBannerIcon:OtherBanner74",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner75": {
+      "templateId": "HomebaseBannerIcon:OtherBanner75",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner76": {
+      "templateId": "HomebaseBannerIcon:OtherBanner76",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner77": {
+      "templateId": "HomebaseBannerIcon:OtherBanner77",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:OtherBanner78": {
+      "templateId": "HomebaseBannerIcon:OtherBanner78",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner54": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner54",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner55": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner55",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner56": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner56",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner57": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner57",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:InfluencerBanner58": {
+      "templateId": "HomebaseBannerIcon:InfluencerBanner58",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerStonewoodComplete": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerStonewoodComplete",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerPlankertonComplete": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerPlankertonComplete",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerCannyValleyComplete": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerCannyValleyComplete",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason01": {
+      "templateId": "HomebaseBannerIcon:BRSeason01",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerHolidayEasy": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerHolidayEasy",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerHolidayMed": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerHolidayMed",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerHolidayHard": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerHolidayHard",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Bush": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Bush",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Salt": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Salt",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02LionHerald": {
+      "templateId": "HomebaseBannerIcon:BRSeason02LionHerald",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02CatSoldier": {
+      "templateId": "HomebaseBannerIcon:BRSeason02CatSoldier",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Dragon": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Dragon",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Planet": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Planet",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Crosshair": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Crosshair",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Bowling": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Bowling",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02MonsterTruck": {
+      "templateId": "HomebaseBannerIcon:BRSeason02MonsterTruck",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Shark": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Shark",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02IceCream": {
+      "templateId": "HomebaseBannerIcon:BRSeason02IceCream",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Log": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Log",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Cake": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Cake",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Tank": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Tank",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02GasMask": {
+      "templateId": "HomebaseBannerIcon:BRSeason02GasMask",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Vulture": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Vulture",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason02Sawhorse": {
+      "templateId": "HomebaseBannerIcon:BRSeason02Sawhorse",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Bee": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Bee",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Chick": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Chick",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Chicken": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Chicken",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Crab": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Crab",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03CrescentMoon": {
+      "templateId": "HomebaseBannerIcon:BRSeason03CrescentMoon",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03DeadFish": {
+      "templateId": "HomebaseBannerIcon:BRSeason03DeadFish",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03DinosaurSkull": {
+      "templateId": "HomebaseBannerIcon:BRSeason03DinosaurSkull",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03DogCollar": {
+      "templateId": "HomebaseBannerIcon:BRSeason03DogCollar",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Donut": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Donut",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Eagle": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Eagle",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Egg": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Egg",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Falcon": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Falcon",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Flail": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Flail",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03HappyCloud": {
+      "templateId": "HomebaseBannerIcon:BRSeason03HappyCloud",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Lantern": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Lantern",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Lightning": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Lightning",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Paw": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Paw",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Shark": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Shark",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03ShootingStar": {
+      "templateId": "HomebaseBannerIcon:BRSeason03ShootingStar",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Snake": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Snake",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Sun": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Sun",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03TeddyBear": {
+      "templateId": "HomebaseBannerIcon:BRSeason03TeddyBear",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03TopHat": {
+      "templateId": "HomebaseBannerIcon:BRSeason03TopHat",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Whale": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Whale",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Wing": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Wing",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Wolf": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Wolf",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:BRSeason03Worm": {
+      "templateId": "HomebaseBannerIcon:BRSeason03Worm",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerStorm2018Easy": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerStorm2018Easy",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerStorm2018Med": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerStorm2018Med",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "HomebaseBannerIcon:SurvivalBannerStorm2018Hard": {
+      "templateId": "HomebaseBannerIcon:SurvivalBannerStorm2018Hard",
+      "attributes": {
+        "item_seen": true
+      },
+      "quantity": 1
+    },
+    "34386eaa-f5a8-40a1-8cbd-1c60fa277e8d": {
+      "templateId": "Token:accountinventorybonus",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 25
+    },
+    "6fcc7af2-1f4e-450a-a903-c59ec1e269d8": {
+      "templateId": "Token:homebasepoints",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 0
+    },
+    "2b0820bb-a99d-44d2-93cc-304607cb6972": {
+      "templateId": "Token:campaigntutorialcomplete_defaultcampaign",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "7231a082-a737-4dd0-8101-770d9c99c06c": {
+      "templateId": "Token:founderspack_standard",
+      "attributes": {
+        "level": 1,
+        "item_seen": true,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "96cedc03-704a-4d0e-848c-06d8b4a0b50d": {
+      "templateId": "HomebaseBannerIcon:foundertier1banner1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "13f41bc9-b01d-4c21-b8db-56f03ca7ea72": {
+      "templateId": "HomebaseBannerIcon:foundertier1banner2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "b41d7aef-abfd-4496-a6b6-12c1897f394a": {
+      "templateId": "HomebaseBannerIcon:foundertier1banner3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "5b9d21ef-03bf-488f-9497-03e20640dc45": {
+      "templateId": "HomebaseBannerIcon:foundertier1banner4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "a43d027b-67ce-449a-93de-69a95ce24115": {
+      "templateId": "HomebaseBannerIcon:foundertier2banner1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "f2abd0d0-2da1-48c0-9ac4-0fed41d74174": {
+      "templateId": "HomebaseBannerIcon:foundertier2banner2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "ae2689a1-9b33-4592-8eb7-9bef5f6fc770": {
+      "templateId": "HomebaseBannerIcon:foundertier2banner3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "45279c0d-901e-4e16-a9b8-73e9841e4b3a": {
+      "templateId": "HomebaseBannerIcon:foundertier2banner4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "fa44d164-a344-4919-ac4e-74f26813545b": {
+      "templateId": "HomebaseBannerIcon:foundertier2banner5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "00dee2d4-92fd-4244-8dd0-17cb04114bc8": {
+      "templateId": "HomebaseBannerIcon:foundertier2banner6",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4c3f28a7-ac65-4017-8ef4-506261128022": {
+      "templateId": "Token:founderchatunlock",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "8d4d496d-34e1-44d5-9fc1-798c6e6b6662": {
+      "templateId": "HomebaseBannerIcon:foundertier3banner1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "4b8bd374-5318-4385-8907-1159bd5ca2d2": {
+      "templateId": "HomebaseBannerIcon:foundertier3banner2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "9030fcdf-df17-4fd6-85f2-48bd7b468a93": {
+      "templateId": "HomebaseBannerIcon:foundertier3banner3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "7d806ee8-ff03-4806-a87b-7a1ea61e3027": {
+      "templateId": "HomebaseBannerIcon:foundertier3banner4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "95978bd3-bc82-464e-9a95-6bf831452ee3": {
+      "templateId": "HomebaseBannerIcon:foundertier3banner5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "bea74e43-e2eb-4ef5-a5db-b4d0085cba11": {
+      "templateId": "HomebaseBannerIcon:foundertier4banner1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "d00eb2ac-9078-4d73-a9b0-64c0c523b6c7": {
+      "templateId": "HomebaseBannerIcon:foundertier4banner2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "bc2ac434-2867-4e4d-bd66-a7440c4c6007": {
+      "templateId": "HomebaseBannerIcon:foundertier4banner3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "708c7bc4-e60a-450f-878a-06973a07d1b6": {
+      "templateId": "HomebaseBannerIcon:foundertier4banner4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "e70b8125-ec97-4ed0-99a1-406dcba1bcde": {
+      "templateId": "HomebaseBannerIcon:foundertier4banner5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "33f5f75b-cad6-4092-a5e7-f2835b57c952": {
+      "templateId": "HomebaseBannerIcon:foundertier5banner1",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "42ddb5f7-aa86-4c0d-aceb-241009ba8701": {
+      "templateId": "HomebaseBannerIcon:foundertier5banner2",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "0a802e7d-3e8f-4eb8-b86c-793f33bc0927": {
+      "templateId": "HomebaseBannerIcon:foundertier5banner3",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "576f1cfa-57a3-48c2-b0a8-79c166147339": {
+      "templateId": "HomebaseBannerIcon:foundertier5banner4",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "5131b532-13c8-4f73-a089-b7c8853b706d": {
+      "templateId": "HomebaseBannerIcon:foundertier5banner5",
+      "attributes": {
+        "max_level_bonus": 0,
+        "level": 1,
+        "item_seen": false,
+        "xp": 0,
+        "favorite": false
+      },
+      "quantity": 1
+    },
+    "2f6f19df-3e7b-45e8-9753-fd44c5b4f1a1": {
+      "templateId": "GiftBox:GB_MakeGood",
+      "attributes": {
+        "fromAccountId": "[Administrator]",
+        "lootList": [
+          {
+            "itemType": "Currency:MtxGiveaway",
+            "itemGuid": "Currency:MtxGiveaway",
+            "quantity": 100
+          }
+        ],
+        "params": {
+          "userMessage": "GameRewards"
+        },
+        "giftedOn": "2026-09-26T09:18:40.150Z"
+      },
+      "quantity": 1
+    },
+    "dc962738-cb01-45cf-a35c-19049f5dc980": {
+      "templateId": "GiftBox:GB_MakeGood",
+      "attributes": {
+        "fromAccountId": "[Administrator]",
+        "lootList": [
+          {
+            "itemType": "Currency:MtxGiveaway",
+            "itemGuid": "Currency:MtxGiveaway",
+            "quantity": 150
+          }
+        ],
+        "params": {
+          "userMessage": "GameRewards"
+        },
+        "giftedOn": "2026-09-26T15:50:50.518Z"
+      },
+      "quantity": 1
+    },
+    "daddab23-57cd-40a2-8825-9b1fe32c6d08": {
+      "templateId": "GiftBox:GB_MakeGood",
+      "attributes": {
+        "fromAccountId": "[Administrator]",
+        "lootList": [
+          {
+            "itemType": "Currency:MtxGiveaway",
+            "itemGuid": "Currency:MtxGiveaway",
+            "quantity": 50
+          }
+        ],
+        "params": {
+          "userMessage": "GameRewards"
+        },
+        "giftedOn": "2026-09-26T16:40:59.465Z"
+      },
+      "quantity": 1
+    },
+    "7efa7d95-0bae-46af-9304-8d12b61e8d0e": {
+      "templateId": "GiftBox:GB_MakeGood",
+      "attributes": {
+        "fromAccountId": "[Administrator]",
+        "lootList": [
+          {
+            "itemType": "Currency:MtxGiveaway",
+            "itemGuid": "Currency:MtxGiveaway",
+            "quantity": 50
+          }
+        ],
+        "params": {
+          "userMessage": "GameRewards"
+        },
+        "giftedOn": "2026-09-26T16:50:33.226Z"
+      },
+      "quantity": 1
+    },
+    "8c566583-1f09-4b58-aba1-3d75dc789e3b": {
+      "templateId": "GiftBox:GB_MakeGood",
+      "attributes": {
+        "fromAccountId": "[Administrator]",
+        "lootList": [
+          {
+            "itemType": "Currency:MtxGiveaway",
+            "itemGuid": "Currency:MtxGiveaway",
+            "quantity": 50
+          }
+        ],
+        "params": {
+          "userMessage": "GameRewards"
+        },
+        "giftedOn": "2026-09-26T17:00:50.273Z"
+      },
+      "quantity": 1
+    },
+    "abb0a986-48f2-414c-975a-880fd5f5fee1": {
+      "templateId": "GiftBox:GB_MakeGood",
+      "attributes": {
+        "fromAccountId": "[Administrator]",
+        "lootList": [
+          {
+            "itemType": "Currency:MtxGiveaway",
+            "itemGuid": "Currency:MtxGiveaway",
+            "quantity": 50
+          }
+        ],
+        "params": {
+          "userMessage": "GameRewards"
+        },
+        "giftedOn": "2026-09-26T18:21:54.246Z"
+      },
+      "quantity": 1
+    }
+  },
+  "stats": {
+    "attributes": {
+      "survey_data": {},
+      "personal_offers": {},
+      "intro_game_played": true,
+      "import_friends_claimed": {},
+      "mtx_purchase_history": {
+        "refundsUsed": 0,
+        "refundCredits": 3,
+        "purchases": [
+          {
+            "purchaseId": "AthenaCharacter:CID_009_Athena_Commando_M",
+            "offerId": "v2:/AthenaCharacter:CID_009_Athena_Commando_M",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_009_Athena_Commando_M",
+                "itemGuid": "AthenaCharacter:CID_009_Athena_Commando_M",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "Lawin",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          },
+          {
+            "purchaseId": "AthenaCharacter:CID_010_Athena_Commando_M",
+            "offerId": "v2:/AthenaCharacter:CID_010_Athena_Commando_M",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_010_Athena_Commando_M",
+                "itemGuid": "AthenaCharacter:CID_010_Athena_Commando_M",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "PRO100KatYT",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          },
+          {
+            "purchaseId": "AthenaCharacter:CID_011_Athena_Commando_M",
+            "offerId": "v2:/AthenaCharacter:CID_011_Athena_Commando_M",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_011_Athena_Commando_M",
+                "itemGuid": "AthenaCharacter:CID_011_Athena_Commando_M",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "Lawin",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          },
+          {
+            "purchaseId": "AthenaCharacter:CID_012_Athena_Commando_M",
+            "offerId": "v2:/AthenaCharacter:CID_012_Athena_Commando_M",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_012_Athena_Commando_M",
+                "itemGuid": "AthenaCharacter:CID_012_Athena_Commando_M",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "TI93",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          },
+          {
+            "purchaseId": "AthenaCharacter:CID_013_Athena_Commando_F",
+            "offerId": "v2:/AthenaCharacter:CID_013_Athena_Commando_F",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_013_Athena_Commando_F",
+                "itemGuid": "AthenaCharacter:CID_013_Athena_Commando_F",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "Lawin",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          },
+          {
+            "purchaseId": "AthenaCharacter:CID_014_Athena_Commando_F",
+            "offerId": "v2:/AthenaCharacter:CID_014_Athena_Commando_F",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_014_Athena_Commando_F",
+                "itemGuid": "AthenaCharacter:CID_014_Athena_Commando_F",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "Playeereq",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          },
+          {
+            "purchaseId": "AthenaCharacter:CID_015_Athena_Commando_F",
+            "offerId": "v2:/AthenaCharacter:CID_015_Athena_Commando_F",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_015_Athena_Commando_F",
+                "itemGuid": "AthenaCharacter:CID_015_Athena_Commando_F",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "Lawin",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          },
+          {
+            "purchaseId": "AthenaCharacter:CID_016_Athena_Commando_F",
+            "offerId": "v2:/AthenaCharacter:CID_016_Athena_Commando_F",
+            "purchaseDate": "9999-12-31T00:00:00.000Z",
+            "freeRefundEligible": false,
+            "fulfillments": [],
+            "lootResult": [
+              {
+                "itemType": "AthenaCharacter:CID_016_Athena_Commando_F",
+                "itemGuid": "AthenaCharacter:CID_016_Athena_Commando_F",
+                "itemProfile": "athena",
+                "quantity": 1
+              }
+            ],
+            "totalMtxPaid": 800,
+            "metadata": {
+              "mtx_affiliate": "Matteoki",
+              "mtx_affiliate_id": "29063ead167541899959bbc9c439acc6"
+            },
+            "gameContext": ""
+          }
+        ]
+      },
+      "undo_cooldowns": [],
+      "mtx_affiliate_set_time": "",
+      "inventory_limit_bonus": 0,
+      "current_mtx_platform": "EpicPC",
+      "mtx_affiliate": "",
+      "forced_intro_played": "Coconut",
+      "weekly_purchases": {},
+      "daily_purchases": {},
+      "ban_history": {},
+      "in_app_purchases": {},
+      "permissions": [],
+      "undo_timeout": "min",
+      "monthly_purchases": {},
+      "allowed_to_send_gifts": true,
+      "mfa_enabled": true,
+      "allowed_to_receive_gifts": true,
+      "gift_history": {},
+      "level": 1,
+      "xp": 0,
+      "gameplay_stats": [
+        {
+          "statName": "zonescompleted",
+          "statValue": 0
+        }
+      ],
+      "tutorial_completed": true,
+      "has_completed_tutorial": true,
+      "currency": {
+        "MtxCurrency": {
+          "quantity": 15000
+        }
+      }
+    }
+  },
+  "commandRevision": 39
+}

@@ -1,0 +1,49 @@
+{
+  "accounts": [
+    {
+      "accountId": "sussyserver",
+      "email": "sussyserver@lawin.local",
+      "displayName": "SussyServer",
+      "password": "SussyServer123",
+      "created": "2026-08-23T00:42:47.345Z"
+    },
+    {
+      "accountId": "rootserver",
+      "email": "rootserver@lawin.local",
+      "displayName": "RootServer",
+      "password": "RootServer123",
+      "created": "2026-08-23T00:42:47.345Z"
+    },
+    {
+      "accountId": "pussy",
+      "email": "pussy@Frost.dev",
+      "displayName": "pussy",
+      "password": "pussy",
+      "created": "2026-08-23T00:42:47.345Z"
+    },
+    {
+      "accountId": "tr1268",
+      "email": "tr1268@frost.dev",
+      "displayName": "tr1268",
+      "password": "Fred2244",
+      "discordId": "1452092397231280178",
+      "created": "2026-09-24T16:23:02.800Z",
+      "hwids": [
+        "fd0a24d932446ca162eca0df1275cbf9",
+        "f115560072dd1e585e34f94926eb0706"
+      ],
+      "banned": false
+    },
+    {
+      "accountId": "rootlander",
+      "email": "rootlander@frost.dev",
+      "displayName": "RootLander",
+      "password": "Hbtajj",
+      "discordId": "1078960055799517234",
+      "created": "2026-11-01T18:03:31.682Z",
+      "hwids": [
+        "047fe737f287dd51e07665f165b6191a"
+      ]
+    }
+  ]
+}
